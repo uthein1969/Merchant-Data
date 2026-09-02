@@ -1,0 +1,6 @@
+{
+  "name": "Merchant List Explorer",
+  "description": "High-density Excel data search and verification tool for Merchant Registration Name, Legal Person, ID Number (last 6 digits), and Township.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

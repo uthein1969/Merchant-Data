@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Merchant Data</string>
+    <string name="title_activity_main">Merchant Data</string>
+    <string name="package_name">com.merchant.explorer</string>
+    <string name="custom_url_scheme">com.merchant.explorer</string>
+</resources>
